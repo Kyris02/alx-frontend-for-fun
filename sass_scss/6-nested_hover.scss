@@ -6,7 +6,7 @@ $light-green: #00FF00;
 button {
     color: $norm-red;
     
-    :hover {
+    &:hover {
         color: $light-green;
     }
 }
