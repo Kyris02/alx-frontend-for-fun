@@ -1,23 +1,25 @@
-/*Sass file that creates classes with different width*/
+/*Sass file that creates classes with different @include width*/
 
-
+@mixin  width ($width) {
+    width: $width;
+}
 
 @for $i from 1 through 4{
     .col-#{$i} {
         @if $i == 1 {
-            width: 100%;
+            @include width(100%);
         }
 
         @else if $i == 2 {
-            width: 50%;
+            @include width(50%);
         }
 
         @else if $i == 3 {
-            width: 33.3333333333%;
+            @include width(33.3333333333%);
         }
 
         @else {
-            width: 25%;
+            @include width(25%);
         }
         
     }
