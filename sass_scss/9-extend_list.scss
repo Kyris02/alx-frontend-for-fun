@@ -1,0 +1,17 @@
+/*Assigns font size & text colour to .info class*/
+
+$norm-red: #FF0000;
+
+.info {
+    font-size: 12px;
+}
+
+.success {
+    @extend .info;
+    color: $norm-red;
+}
+
+.warning {
+    @extend .info;
+    color: $norm-red;
+}

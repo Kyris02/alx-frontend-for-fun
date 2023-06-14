@@ -1,0 +1,12 @@
+/*Assigns colour to button, changes when hovered*/
+
+$norm-red: #FF0000;
+$light-green: #00FF00;
+
+button {
+    color: $norm-red;
+    
+    :hover {
+        color: $light-green;
+    }
+}
