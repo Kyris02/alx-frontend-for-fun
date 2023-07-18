@@ -1,6 +1,6 @@
 # Flexbox
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/997addf54bcdccc5a096.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230718T084946Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f52412ca8347142b498fab2c60e93b0e4f44e9e39d0eede472135d2376639cd3">
+<img src="https://brunocapuano.files.wordpress.com/2019/04/time-to-use-float.jpg">
 
 ## Resources
 Read or watch:
