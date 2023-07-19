@@ -599,7 +599,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   border-bottom: 0.2rem solid var(--color-light-grey);
 }
 
-.post-meta-list > [class^="post-meta"] {
+.post-meta-list [class*="post-meta"]:last-child  {
   border: none;
   margin-bottom: 3rem;
 }
@@ -620,6 +620,6 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   content: ", ";
 }
 
-.tag-list > li::after {
+.tag-list li:last-child::after {
   content: "";
 }
