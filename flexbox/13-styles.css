@@ -586,7 +586,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   flex-direction: column;
 }
 
-.post-meta-list b {
+.post-meta-list strong {
   color: var(--color-primary);
   font-size: var(--font-size-small);
   text-transform: uppercase;
